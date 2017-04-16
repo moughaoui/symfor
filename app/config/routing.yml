@@ -1,3 +1,11 @@
+symfor_symfor:
+    resource: "@SymforSymforBundle/Resources/config/routing.yml"
+    prefix:   /
+
+symfor_admin:
+    resource: "@SymforAdminBundle/Resources/config/routing.yml"
+    prefix:   /%symfor_admin_url%
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation

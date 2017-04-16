@@ -1,0 +1,3 @@
+symfor_symfor_homepage:
+    path:     /
+    defaults: { _controller: SymforSymforBundle:Default:index }

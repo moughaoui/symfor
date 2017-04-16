@@ -1,0 +1,3 @@
+symfor_admin_homepage:
+    path:     /
+    defaults: { _controller: SymforAdminBundle:Default:index }

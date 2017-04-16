@@ -1,0 +1,4 @@
+services:
+#    symfor_admin.example:
+#        class: Symfor\AdminBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
